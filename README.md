@@ -26,4 +26,4 @@ python server.py
 ```
 
 # Docs with FastAPI and Swagger
-[Route of documentation](http://localhost:8000/docs) - `http://localhost:8000/docs`
+`http://localhost:8000/docs` [Go](http://localhost:8000/docs)
