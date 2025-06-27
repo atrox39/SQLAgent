@@ -1,0 +1,14 @@
+__pycache__/
+.env
+.venv/
+.DS_Store
+venv/
+.vscode/
+.dbclient/
+.dbclient/query/
+.dbclient/query/*
+.dbclient/query/*/*
+.dbclient/query/*/*/*
+.dbclient/query/*/*/*/*
+.mypy_cache/
+*.db
